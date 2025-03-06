@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/imported/connector")(options "")(descr ""))
+  (lib (name "nice-nano-kicad")(type "KiCad")(uri "${KIPRJMOD}/libraries/nice-nano-kicad")(options "")(descr ""))
+  (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/libraries/key-switches.pretty")(options "")(descr ""))
+)

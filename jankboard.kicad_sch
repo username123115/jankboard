@@ -2945,12 +2945,6 @@
 		(uuid "4b35829c-5415-4ea0-bee9-0e2553a71de9")
 	)
 	(junction
-		(at 247.65 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4bc83bec-3942-4674-b2af-67ebbc3536b3")
-	)
-	(junction
 		(at 135.89 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3345,12 +3339,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba6ea80a-6b10-4c9c-83e0-8ebdee4edb45")
-	)
-	(junction
-		(at 247.65 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ba821efb-bdda-4709-aa11-216448dd77fc")
 	)
 	(junction
 		(at 109.22 97.79)
@@ -5138,16 +5126,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 102.87) (xy 247.65 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "782b304a-720a-4e01-9cc9-ee8ef232f493")
-	)
-	(wire
-		(pts
 			(xy 240.03 135.89) (xy 240.03 138.43)
 		)
 		(stroke
@@ -5915,16 +5893,6 @@
 			(type default)
 		)
 		(uuid "baefddc8-4191-4baf-b988-be6a2601a2a7")
-	)
-	(wire
-		(pts
-			(xy 255.27 97.79) (xy 247.65 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb3e7e57-3e37-412b-b93b-7ca71fe992f7")
 	)
 	(wire
 		(pts
@@ -7647,7 +7615,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 341.63 138.7348 0)
 			(effects
 				(font
@@ -7792,7 +7760,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 67.31 68.58 0)
 			(effects
 				(font
@@ -7877,7 +7845,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 336.55 105.7148 0)
 			(effects
 				(font
@@ -7947,7 +7915,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 116.84 68.58 0)
 			(effects
 				(font
@@ -8102,7 +8070,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 52.07 93.98 0)
 			(effects
 				(font
@@ -8187,7 +8155,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 113.03 64.77 0)
 			(effects
 				(font
@@ -8410,7 +8378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 38.1 44.45 0)
 			(effects
 				(font
@@ -8495,7 +8463,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 63.5 90.17 0)
 			(effects
 				(font
@@ -8650,7 +8618,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 100.33 68.58 0)
 			(effects
 				(font
@@ -8738,7 +8706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 160.782 29.21 90)
 			(effects
 				(font
@@ -8805,7 +8773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 336.55 100.6348 0)
 			(effects
 				(font
@@ -8872,7 +8840,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 48.26 40.64 0)
 			(effects
 				(font
@@ -8957,7 +8925,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 232.41 137.4648 0)
 			(effects
 				(font
@@ -9024,7 +8992,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 321.31 98.0948 0)
 			(effects
 				(font
@@ -9091,7 +9059,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 34.29 40.64 0)
 			(effects
 				(font
@@ -9176,7 +9144,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 325.12 123.4948 0)
 			(effects
 				(font
@@ -9464,7 +9432,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 25.4 68.58 0)
 			(effects
 				(font
@@ -9624,7 +9592,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 321.31 93.0148 0)
 			(effects
 				(font
@@ -9769,7 +9737,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 67.31 93.98 0)
 			(effects
 				(font
@@ -10000,7 +9968,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 85.09 44.45 0)
 			(effects
 				(font
@@ -10155,7 +10123,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 116.84 93.98 0)
 			(effects
 				(font
@@ -10392,7 +10360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 329.8952 86.36 0)
 			(effects
 				(font
@@ -10594,7 +10562,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 212.09 96.8248 0)
 			(effects
 				(font
@@ -10661,7 +10629,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 243.84 91.948 90)
 			(effects
 				(font
@@ -10795,7 +10763,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 48.26 64.77 0)
 			(effects
 				(font
@@ -10880,7 +10848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 341.63 143.8148 0)
 			(effects
 				(font
@@ -11089,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 356.87 110.7948 0)
 			(effects
 				(font
@@ -11156,7 +11124,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 113.03 40.64 0)
 			(effects
 				(font
@@ -11308,7 +11276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 247.65 114.6048 0)
 			(effects
 				(font
@@ -11375,7 +11343,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 341.63 148.8948 0)
 			(effects
 				(font
@@ -11517,7 +11485,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 227.33 104.4448 0)
 			(effects
 				(font
@@ -12029,7 +11997,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 85.09 68.58 0)
 			(effects
 				(font
@@ -12114,7 +12082,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 48.26 90.17 0)
 			(effects
 				(font
@@ -12199,7 +12167,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 356.87 136.1948 0)
 			(effects
 				(font
@@ -12341,7 +12309,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 113.03 90.17 0)
 			(effects
 				(font
@@ -12631,7 +12599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 186.182 29.21 90)
 			(effects
 				(font
@@ -12848,7 +12816,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 243.84 93.472 90)
 			(effects
 				(font
@@ -13065,7 +13033,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 63.5 64.77 0)
 			(effects
 				(font
@@ -13227,7 +13195,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 52.07 68.58 0)
 			(effects
 				(font
@@ -13457,7 +13425,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 100.33 93.98 0)
 			(effects
 				(font
@@ -13890,7 +13858,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 247.65 129.8448 0)
 			(effects
 				(font
@@ -14034,7 +14002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 220.6752 85.09 0)
 			(effects
 				(font
@@ -14371,7 +14339,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 21.59 40.64 0)
 			(effects
 				(font
@@ -14456,7 +14424,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 81.28 64.77 0)
 			(effects
 				(font
@@ -14691,7 +14659,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 96.52 64.77 0)
 			(effects
 				(font
@@ -15051,7 +15019,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 25.4 44.45 0)
 			(effects
 				(font
@@ -15136,7 +15104,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 247.65 134.9248 0)
 			(effects
 				(font
@@ -15206,7 +15174,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 67.31 44.45 0)
 			(effects
 				(font
@@ -15291,7 +15259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 356.87 115.8748 0)
 			(effects
 				(font
@@ -15360,7 +15328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 338.7852 86.36 0)
 			(effects
 				(font
@@ -15427,7 +15395,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 353.06 93.218 90)
 			(effects
 				(font
@@ -15629,7 +15597,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 63.5 40.64 0)
 			(effects
 				(font
@@ -15782,7 +15750,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 232.41 147.6248 0)
 			(effects
 				(font
@@ -15917,7 +15885,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 21.59 64.77 0)
 			(effects
 				(font
@@ -16077,7 +16045,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 21.59 90.17 0)
 			(effects
 				(font
@@ -16162,7 +16130,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 212.09 91.7448 0)
 			(effects
 				(font
@@ -16508,7 +16476,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 247.65 119.6848 0)
 			(effects
 				(font
@@ -16575,7 +16543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 336.55 110.7948 0)
 			(effects
 				(font
@@ -16919,7 +16887,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 96.52 40.64 0)
 			(effects
 				(font
@@ -17004,7 +16972,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 356.87 120.9548 0)
 			(effects
 				(font
@@ -17149,7 +17117,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 116.84 44.45 0)
 			(effects
 				(font
@@ -17234,7 +17202,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 215.9 122.2248 0)
 			(effects
 				(font
@@ -17519,7 +17487,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 81.28 90.17 0)
 			(effects
 				(font
@@ -17604,7 +17572,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 356.87 126.0348 0)
 			(effects
 				(font
@@ -17743,7 +17711,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 38.1 68.58 0)
 			(effects
 				(font
@@ -17906,7 +17874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 100.33 44.45 0)
 			(effects
 				(font
@@ -17994,7 +17962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 178.562 29.21 90)
 			(effects
 				(font
@@ -18061,7 +18029,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 356.87 131.1148 0)
 			(effects
 				(font
@@ -18197,7 +18165,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 227.33 109.5248 0)
 			(effects
 				(font
@@ -18330,7 +18298,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 232.41 142.5448 0)
 			(effects
 				(font
@@ -18466,7 +18434,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 25.4 93.98 0)
 			(effects
 				(font
@@ -18551,7 +18519,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 81.28 40.64 0)
 			(effects
 				(font
@@ -18636,7 +18604,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 247.65 109.5248 0)
 			(effects
 				(font
@@ -18703,7 +18671,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 227.33 99.3648 0)
 			(effects
 				(font
@@ -19190,7 +19158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 96.52 90.17 0)
 			(effects
 				(font
@@ -19342,7 +19310,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 34.29 90.17 0)
 			(effects
 				(font
@@ -19574,7 +19542,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 38.1 93.98 0)
 			(effects
 				(font
@@ -19805,7 +19773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 168.402 29.21 90)
 			(effects
 				(font
@@ -20160,7 +20128,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 85.09 93.98 0)
 			(effects
 				(font
@@ -20381,7 +20349,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 52.07 44.45 0)
 			(effects
 				(font
@@ -20466,7 +20434,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 34.29 64.77 0)
 			(effects
 				(font
@@ -20617,7 +20585,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 353.06 94.742 90)
 			(effects
 				(font
@@ -20752,7 +20720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 247.65 124.7648 0)
 			(effects
 				(font
@@ -20953,7 +20921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "nice-nano-kicad:nice_nano"
 			(at 273.05 100.33 90)
 			(effects
 				(font
@@ -21164,7 +21132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 229.5652 85.09 0)
 			(effects
 				(font
