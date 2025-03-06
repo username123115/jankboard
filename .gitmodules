@@ -4,3 +4,6 @@
 [submodule "libraries/key-switches.pretty"]
 	path = libraries/key-switches.pretty
 	url = https://github.com/siderakb/key-switches.pretty.git
+[submodule "libraries/keyswitches.pretty"]
+	path = libraries/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git

@@ -7615,7 +7615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 341.63 138.7348 0)
 			(effects
 				(font
@@ -7845,7 +7845,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 336.55 105.7148 0)
 			(effects
 				(font
@@ -8308,7 +8308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 49.53 38.1 0)
 			(effects
 				(font
@@ -8706,7 +8706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 160.782 29.21 90)
 			(effects
 				(font
@@ -8773,7 +8773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 336.55 100.6348 0)
 			(effects
 				(font
@@ -8925,7 +8925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 232.41 137.4648 0)
 			(effects
 				(font
@@ -8992,7 +8992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 321.31 98.0948 0)
 			(effects
 				(font
@@ -9144,7 +9144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 325.12 123.4948 0)
 			(effects
 				(font
@@ -9362,7 +9362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 64.77 38.1 0)
 			(effects
 				(font
@@ -9592,7 +9592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 321.31 93.0148 0)
 			(effects
 				(font
@@ -9898,7 +9898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 22.86 38.1 0)
 			(effects
 				(font
@@ -10360,7 +10360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 329.8952 86.36 0)
 			(effects
 				(font
@@ -10428,7 +10428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 35.56 38.1 0)
 			(effects
 				(font
@@ -10562,7 +10562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 212.09 96.8248 0)
 			(effects
 				(font
@@ -10629,7 +10629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 243.84 91.948 90)
 			(effects
 				(font
@@ -10848,7 +10848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 341.63 143.8148 0)
 			(effects
 				(font
@@ -11057,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 356.87 110.7948 0)
 			(effects
 				(font
@@ -11276,7 +11276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.65 114.6048 0)
 			(effects
 				(font
@@ -11343,7 +11343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 341.63 148.8948 0)
 			(effects
 				(font
@@ -11485,7 +11485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 227.33 104.4448 0)
 			(effects
 				(font
@@ -12167,7 +12167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 356.87 136.1948 0)
 			(effects
 				(font
@@ -12397,7 +12397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
 			(at 290.83 22.86 0)
 			(effects
 				(font
@@ -12599,7 +12599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 186.182 29.21 90)
 			(effects
 				(font
@@ -12816,7 +12816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 243.84 93.472 90)
 			(effects
 				(font
@@ -13511,7 +13511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 114.3 87.63 0)
 			(effects
 				(font
@@ -13581,7 +13581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
 			(at 290.83 31.75 0)
 			(effects
 				(font
@@ -13649,7 +13649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 97.79 38.1 0)
 			(effects
 				(font
@@ -13858,7 +13858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.65 129.8448 0)
 			(effects
 				(font
@@ -14002,7 +14002,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 220.6752 85.09 0)
 			(effects
 				(font
@@ -14072,7 +14072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "F31L-1A7H1-11030:AMPHENOL_F31L-1A7H1-11030"
+		(property "Footprint" "connector:F31L-1A7H1-11030"
 			(at 367.03 109.22 0)
 			(effects
 				(font
@@ -14811,7 +14811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 97.79 62.23 0)
 			(effects
 				(font
@@ -14880,7 +14880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 114.3 62.23 0)
 			(effects
 				(font
@@ -14949,7 +14949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 64.77 62.23 0)
 			(effects
 				(font
@@ -15104,7 +15104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.65 134.9248 0)
 			(effects
 				(font
@@ -15259,7 +15259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 356.87 115.8748 0)
 			(effects
 				(font
@@ -15328,7 +15328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 338.7852 86.36 0)
 			(effects
 				(font
@@ -15395,7 +15395,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 353.06 93.218 90)
 			(effects
 				(font
@@ -15530,7 +15530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 82.55 87.63 0)
 			(effects
 				(font
@@ -15683,7 +15683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 49.53 87.63 0)
 			(effects
 				(font
@@ -15750,7 +15750,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 232.41 147.6248 0)
 			(effects
 				(font
@@ -15818,7 +15818,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 114.3 38.1 0)
 			(effects
 				(font
@@ -16130,7 +16130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 212.09 91.7448 0)
 			(effects
 				(font
@@ -16265,7 +16265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 35.56 87.63 0)
 			(effects
 				(font
@@ -16409,7 +16409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 82.55 62.23 0)
 			(effects
 				(font
@@ -16476,7 +16476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.65 119.6848 0)
 			(effects
 				(font
@@ -16543,7 +16543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 336.55 110.7948 0)
 			(effects
 				(font
@@ -16611,7 +16611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 64.77 87.63 0)
 			(effects
 				(font
@@ -16972,7 +16972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 356.87 120.9548 0)
 			(effects
 				(font
@@ -17202,7 +17202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 215.9 122.2248 0)
 			(effects
 				(font
@@ -17345,7 +17345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 97.79 87.63 0)
 			(effects
 				(font
@@ -17572,7 +17572,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 356.87 126.0348 0)
 			(effects
 				(font
@@ -17641,7 +17641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 22.86 62.23 0)
 			(effects
 				(font
@@ -17962,7 +17962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 178.562 29.21 90)
 			(effects
 				(font
@@ -18029,7 +18029,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 356.87 131.1148 0)
 			(effects
 				(font
@@ -18098,7 +18098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 49.53 62.23 0)
 			(effects
 				(font
@@ -18165,7 +18165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 227.33 109.5248 0)
 			(effects
 				(font
@@ -18298,7 +18298,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 232.41 142.5448 0)
 			(effects
 				(font
@@ -18604,7 +18604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.65 109.5248 0)
 			(effects
 				(font
@@ -18671,7 +18671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 227.33 99.3648 0)
 			(effects
 				(font
@@ -18891,7 +18891,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "F31L-1A7H1-11030:AMPHENOL_F31L-1A7H1-11030"
+		(property "Footprint" "connector:F31L-1A7H1-11030"
 			(at 257.81 107.95 0)
 			(effects
 				(font
@@ -19472,7 +19472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 35.56 62.23 0)
 			(effects
 				(font
@@ -19773,7 +19773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 168.402 29.21 90)
 			(effects
 				(font
@@ -19841,7 +19841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 82.55 38.1 0)
 			(effects
 				(font
@@ -20585,7 +20585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0612_1632Metric"
 			(at 353.06 94.742 90)
 			(effects
 				(font
@@ -20653,7 +20653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "keyswitches:SW_PG1350_reversible"
 			(at 22.86 87.63 0)
 			(effects
 				(font
@@ -20720,7 +20720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.65 124.7648 0)
 			(effects
 				(font
@@ -21132,7 +21132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 229.5652 85.09 0)
 			(effects
 				(font
