@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EGJ1210AAG2R'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "E-Switch", "EGJ1210AAG2R" (!) = "", "EGJ1210AAG2R", "Other", "", "", "SLIDE, 300mA / 500mA, 24VDC / 12VDC SPDT, On-On Surface Mount, Right Angle", "https://configured-product-images.s3.amazonaws.com/2D/specs/EGJ1210AAG2R.pdf", "2.9 mm"
+END_PART
+
+END.

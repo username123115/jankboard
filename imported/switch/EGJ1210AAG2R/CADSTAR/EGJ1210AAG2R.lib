@@ -1,0 +1,15 @@
+.EGJ1210AAG2R :1 ;SLIDE, 300mA / 500mA, 24VDC / 12VDC SPDT, On-On Surface Mount, Right Angle
+EGJ1210AAG2R
+*STM S
+*NGS
+*PLB 1="COM" 2="NO" 3="NC"
+*MXP 3
+*DFN EGJ1210AAG2R
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (E-Switch)
+~!Manufacturer_Part_Number (EGJ1210AAG2R)
+~!Link Datasheet (https://configured-product-images.s3.amazonaws.com/2D/specs/EGJ1210AAG2R.pdf)
+~!Height (2.9mm)
+EGJ1210AAG2R
+1.1!U 2.1!U 3.1!U 

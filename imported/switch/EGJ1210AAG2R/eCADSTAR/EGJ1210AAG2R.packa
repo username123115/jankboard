@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EGJ1210AAG2R"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-08-27-14:53:44)
+    (mountForm default
+        (footprintRef "EGJ1210AAG2R")
+        (spec "System")
+    )
+)

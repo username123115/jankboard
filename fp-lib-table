@@ -3,4 +3,5 @@
   (lib (name "connector")(type "KiCad")(uri "${KIPRJMOD}/imported/connector")(options "")(descr ""))
   (lib (name "nice-nano-kicad")(type "KiCad")(uri "${KIPRJMOD}/libraries/nice-nano-kicad")(options "")(descr ""))
   (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libraries/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/imported/switch/EGJ1210AAG2R/KiCad")(options "")(descr ""))
 )

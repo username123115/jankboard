@@ -1,0 +1,132 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EGJ1210AAG2R"
+   (description "SLIDE, 300mA / 500mA, 24VDC / 12VDC SPDT, On-On Surface Mount, Right Angle")
+   (family "SWI")
+   (package "EGJ1210AAG2R")
+   (attribute "Datasheet Link" "https://configured-product-images.s3.amazonaws.com/2D/specs/EGJ1210AAG2R.pdf")
+   (attribute "Geometry.Height" "2.9mm")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "E-Switch")
+   (attribute "Manufacturer_Part_Number" "EGJ1210AAG2R")
+   (gate
+    (symbol "EGJ1210AAG2R")
+    (pin "COM" 1 PS)
+    (pin "NO" 2 PS)
+    (pin "NC" 3 NC)
+   )
+  )
+  (symbol "EGJ1210AAG2R"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EGJ1210AAG2R"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5 2.8)
+      (pt 5 2.8)
+      (pt 5 -2.2)
+      (pt -5 -2.2)
+      (pt -5 2.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -5 2.8)
+      (pt 5 2.8)
+      (pt 5 -2.2)
+      (pt -5 -2.2)
+      (pt -5 2.8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6 5.2)
+      (pt 6 5.2)
+      (pt 6 -6.7)
+      (pt -6 -6.7)
+      (pt -6 5.2))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -5 2.8)
+      (pt -5 3.3)
+      (pt -1.5 3.8)
+      (pt -1.5 4.2)
+      (pt 0.5 4.2)
+      (pt 0.5 3.8)
+      (pt 3.5 3.3)
+      (pt 3.5 2.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5 2.8)
+      (pt -5 3.3)
+      (pt -1.5 3.8)
+      (pt -1.5 4.2)
+      (pt 0.5 4.2)
+      (pt 0.5 3.8)
+      (pt 3.5 3.3)
+      (pt 3.5 2.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -6.2)
+      (arc (pt 0.000 -6.200) (pt -0.050 -6.300) (pt 0.050 -6.200) (start 180.0) (sweep 90.0))
+      (pt 0 -6.3)
+      (arc (pt 0.000 -6.300) (pt -0.050 -6.300) (pt 0.050 -6.200) (start 180.0) (sweep -90.0))
+      (pt 0 -6.2))))
+   (leg 1 (pt 0.000 -4.200) (padstack 0))
+   (leg 2 (pt -2.540 -4.200) (padstack 0))
+   (leg 3 (pt 2.540 -4.200) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 3.000 0 0 90.000))
+   )
+  )
+ )
+)

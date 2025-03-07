@@ -10,3 +10,5 @@ USBC power
 FPC connector use [this](https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/flex/ffc_fpc_050mm_f31l.pdf)
 
 EINK use [this](https://www.waveshare.com/1.02inch-e-paper.htm)
+
+SWITCH use [this](https://www.mouser.com/ProductDetail/E-Switch/EGJ1210AAG2R?qs=%252BXxaIXUDbq30Q%2FS%252B1rAoog%3D%3D)

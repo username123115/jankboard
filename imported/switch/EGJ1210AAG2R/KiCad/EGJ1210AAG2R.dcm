@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EGJ1210AAG2R
+D SLIDE, 300mA / 500mA, 24VDC / 12VDC SPDT, On-On Surface Mount, Right Angle
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/EGJ1210AAG2R.pdf
+$ENDCMP
+#
+#End Doc Library
