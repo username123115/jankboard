@@ -3282,6 +3282,12 @@
 		(uuid "35760a3d-bfe0-4aab-9fe8-cbd15d6a472b")
 	)
 	(junction
+		(at 90.17 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35b6739c-9da3-488d-a149-be49ecdc9c71")
+	)
+	(junction
 		(at 303.53 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3670,6 +3676,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a7acb528-1b84-42f5-a4a8-32e80b781545")
+	)
+	(junction
+		(at 87.63 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7f79021-5c74-44eb-891f-ebefa8948e51")
 	)
 	(junction
 		(at 334.01 86.36)
@@ -4240,6 +4252,16 @@
 			(type default)
 		)
 		(uuid "0218673b-1690-4a37-95b9-2ce046c00029")
+	)
+	(wire
+		(pts
+			(xy 90.17 151.13) (xy 90.17 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "065c1543-9523-44b9-97d3-a15ffa1a3ac2")
 	)
 	(wire
 		(pts
@@ -5193,6 +5215,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 151.13) (xy 102.87 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "578eb02d-9bb6-4e4b-86aa-3382ed42e0ef")
+	)
+	(wire
+		(pts
 			(xy 59.69 40.64) (xy 59.69 48.26)
 		)
 		(stroke
@@ -5490,6 +5522,16 @@
 			(type default)
 		)
 		(uuid "7085ff25-7121-4c3e-a459-66005032ed88")
+	)
+	(wire
+		(pts
+			(xy 77.47 151.13) (xy 87.63 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71056ded-214a-48aa-bc9f-f240b09fefc5")
 	)
 	(wire
 		(pts
@@ -6063,6 +6105,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 144.78) (xy 90.17 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a535bc87-1267-4943-811e-9c6477f35a00")
+	)
+	(wire
+		(pts
 			(xy 162.56 25.4) (xy 166.37 25.4)
 		)
 		(stroke
@@ -6120,6 +6172,16 @@
 			(type default)
 		)
 		(uuid "a9514d95-a532-4c7f-8d47-b190a66d6a81")
+	)
+	(wire
+		(pts
+			(xy 87.63 144.78) (xy 87.63 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9a2af7a-091e-4eee-b1a1-ba98c3f97f50")
 	)
 	(wire
 		(pts
@@ -6683,6 +6745,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 151.13) (xy 87.63 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6c433c8-e3ee-4f17-a8e8-8b9a4d913da8")
+	)
+	(wire
+		(pts
 			(xy 334.01 213.36) (xy 349.25 213.36)
 		)
 		(stroke
@@ -7143,6 +7215,28 @@
 			)
 		)
 	)
+	(global_label "NP"
+		(shape input)
+		(at 31.75 198.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0c9733f6-d6ac-4180-a747-9f87d01f00e4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.1643 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL6"
 		(shape input)
 		(at 111.76 25.4 90)
@@ -7354,6 +7448,28 @@
 		(uuid "5b4fbed0-d2ad-4565-b306-0a9e9f2c7ccc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 241.4595 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NP"
+		(shape input)
+		(at 31.75 222.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6052981b-b6bf-4907-a689-12a7b3504320")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.1643 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7623,6 +7739,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NP"
+		(shape input)
+		(at 77.47 151.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9f377d87-e229-4bd8-931b-81552fe144cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.8843 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8336,6 +8474,131 @@
 			(project "jankboard"
 				(path "/eb8667ea-731d-4bd5-bee9-3d7efb894a0f"
 					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EGJ1210AAG2R:EGJ1210AAG2R")
+		(at 87.63 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "071ac46a-e4f7-434b-a8a8-68308fb0f0d5")
+		(property "Reference" "S3"
+			(at 96.52 132.0799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "EGJ1210AAG2R"
+			(at 96.52 134.6199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "KiCad:EGJ1210AAG2R"
+			(at 182.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/EGJ1210AAG2R.pdf"
+			(at 282.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SLIDE, 300mA / 500mA, 24VDC / 12VDC SPDT, On-On Surface Mount, Right Angle"
+			(at 87.63 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.9"
+			(at 482.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 582.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 682.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "E-Switch"
+			(at 782.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EGJ1210AAG2R"
+			(at 882.55 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e9d8b549-fea3-4f35-98b7-7fbd4d5a1c68")
+		)
+		(pin "1"
+			(uuid "637946b4-4ebf-4ffc-a8aa-7dc10ec2336d")
+		)
+		(pin "3"
+			(uuid "a88d157f-7b2f-4355-b5a7-7454058da319")
+		)
+		(instances
+			(project "jankboard"
+				(path "/eb8667ea-731d-4bd5-bee9-3d7efb894a0f"
+					(reference "S3")
 					(unit 1)
 				)
 			)
@@ -16234,73 +16497,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 31.75 222.25 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9258a628-69ac-4fb5-b892-812006593971")
-		(property "Reference" "#PWR07"
-			(at 35.56 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 27.94 222.2499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 31.75 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 31.75 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 31.75 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9dc986b4-f607-48c0-9232-7ce7d8fc3bb1")
-		)
-		(instances
-			(project "jankboard"
-				(path "/eb8667ea-731d-4bd5-bee9-3d7efb894a0f"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 82.55 87.63 0)
 		(unit 1)
@@ -17660,7 +17856,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 31.75 198.12 90)
+		(at 102.87 151.13 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17669,7 +17865,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad7af105-7d46-4f2d-b9d0-96829a8e4b7f")
 		(property "Reference" "#PWR05"
-			(at 35.56 198.12 0)
+			(at 99.06 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17678,7 +17874,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 27.94 198.1199 90)
+			(at 106.68 151.1299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17687,7 +17883,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 31.75 198.12 0)
+			(at 102.87 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17696,7 +17892,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 198.12 0)
+			(at 102.87 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17705,7 +17901,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 31.75 198.12 0)
+			(at 102.87 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18998,6 +19194,131 @@
 			(project "jankboard"
 				(path "/eb8667ea-731d-4bd5-bee9-3d7efb894a0f"
 					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EGJ1210AAG2R:EGJ1210AAG2R")
+		(at 90.17 156.21 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c57dc32e-ecf6-4966-a089-c9c5a0bb1b43")
+		(property "Reference" "S4"
+			(at 93.98 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EGJ1210AAG2R"
+			(at 93.98 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "KiCad:EGJ1210AAG2R"
+			(at -4.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/EGJ1210AAG2R.pdf"
+			(at -104.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "SLIDE, 300mA / 500mA, 24VDC / 12VDC SPDT, On-On Surface Mount, Right Angle"
+			(at 90.17 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.9"
+			(at -304.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at -404.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at -504.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "E-Switch"
+			(at -604.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EGJ1210AAG2R"
+			(at -704.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "85522d9f-b381-467e-894b-903ad1d90ba5")
+		)
+		(pin "1"
+			(uuid "aa1185fa-df28-4f9c-8c88-b8b430108668")
+		)
+		(pin "3"
+			(uuid "0c589379-d98c-4b7a-a458-a57e6352d441")
+		)
+		(instances
+			(project "jankboard"
+				(path "/eb8667ea-731d-4bd5-bee9-3d7efb894a0f"
+					(reference "S4")
 					(unit 1)
 				)
 			)
